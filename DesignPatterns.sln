@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletone", "Singletone\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{0CF11C4E-F628-4886-B0E7-EAA30A9857B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{52BF2E15-FADA-4816-8C08-40051BC8E7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0CF11C4E-F628-4886-B0E7-EAA30A9857B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF11C4E-F628-4886-B0E7-EAA30A9857B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF11C4E-F628-4886-B0E7-EAA30A9857B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BF2E15-FADA-4816-8C08-40051BC8E7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BF2E15-FADA-4816-8C08-40051BC8E7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BF2E15-FADA-4816-8C08-40051BC8E7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BF2E15-FADA-4816-8C08-40051BC8E7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
